@@ -1,4 +1,4 @@
 cost_case,total_cost_usd_per_bbl,positive_screen_days,positive_screen_day_rate_pct,positive_screen_episodes,median_indicative_netback_usd_per_bbl,maximum_indicative_netback_usd_per_bbl
-low_cost,4.2500,1301,44.8157,115,-0.3900,50.0900
-base_cost,5.2500,941,32.4147,121,-1.3900,49.0900
-high_cost,6.7500,529,18.2225,94,-2.8900,47.5900
+low_cost,4.2500,1306,44.9106,115,-0.3900,50.0900
+base_cost,5.2500,946,32.5309,121,-1.3900,49.0900
+high_cost,6.7500,534,18.3631,94,-2.8900,47.5900
